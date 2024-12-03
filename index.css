@@ -260,6 +260,10 @@ main {
   main {
     background: rgb(248, 248, 248);
   }
+   body {
+    display: grid;
+    place-items: center;
+  }
   .head {
     display: none;
   }
